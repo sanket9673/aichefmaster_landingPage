@@ -19,7 +19,6 @@ const LinkedInIcon = () => (
   </svg>
 );
 
-
 const Welcome = () => {
   return (
     <div>
