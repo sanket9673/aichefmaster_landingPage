@@ -65,7 +65,6 @@ const Welcome = () => {
         </motion.div>
       </header>
     </div>
-
   );
 };
 
